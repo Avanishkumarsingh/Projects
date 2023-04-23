@@ -3,7 +3,7 @@ import pgzrun
 WIDTH = 800
 HEIGHT = 600
 
-player = Actor("spiderman", center = (400, 300))
+player = Actor("ironman", center = (400, 300))
 
 def update():
     if keyboard.left:
